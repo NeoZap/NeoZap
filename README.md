@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hack+Nerd+Mono&duration=2000&pause=1000&color=F9E2AF&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;Constantly+learning+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB;Stay+foolish+%F0%9F%98%81" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Hack%20Nerd&size=23&duration=2000&pause=1000&color=F9E2AF&center=true&random=false&width=435&lines=Hello+World!+%F0%9F%8C%90;Constantly+learning+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB;Stay+foolish+%F0%9F%98%81" alt="Typing SVG" /></a>
+</a> 
+</div>
 
 ## Hey there!👋
 I'm Aushaaf Fadhilah Azzah, and you can call me Fada. I'm currently an undergraduate Computer Science student at University of Indonesia. My interest lies on the field of software engineering and cyber security. I learned about cyber security through playing CTFs, which is a fun way to learn!
