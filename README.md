@@ -17,7 +17,7 @@ I'm Aushaaf Fadhilah Azzah, and you can call me Fada. I'm currently an undergrad
 <div>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.6; background: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.gif?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.6; background: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.gif?raw=true') center center / cover no-repeat;;]{x0000}$}
 ```
 
 <!--
