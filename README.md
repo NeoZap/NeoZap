@@ -17,12 +17,14 @@ I'm Aushaaf Fadhilah Azzah, and you can call me Fada. I'm currently an undergrad
 <div>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.5; background: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.6; background: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.gif?raw=true');]{x0000}$}
 ```
 
+<!--
 ```math
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 25.6dvi; top: 30.78dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 296px; width: 296px; background-image: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.gif?raw=true');]{x0000}$}
 ```
+-->
 
 <!--
 **NeoZap/NeoZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
