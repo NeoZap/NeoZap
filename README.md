@@ -15,6 +15,11 @@ I'm Aushaaf Fadhilah Azzah, and you can call me Fada. I'm currently an undergrad
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoZap&langs_count=8&layout=compact&theme=onedark&hide=Jupyter%20Notebook&custom_title=NeoZap's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoZap&theme=onedark&hide_border=false" alt="GitHub Stats streak">
 <div>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100%; opacity: 0.5; background: url('https://github.com/NeoZap/NeoZap/blob/main/oppa.jpg?raw=true');]{x0000}$}
+```
+
 <!--
 **NeoZap/NeoZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
